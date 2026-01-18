@@ -388,4 +388,4 @@ For issues and questions, please create an issue in the repository.
 
 ---
 
-**Built with ❤️ using LangChain, FAISS, and FastAPI** 
+**Built with ❤️ using LangChain, FAISS, and FastAPI**  

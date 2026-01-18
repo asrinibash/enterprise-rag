@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Environment
+.env
+.env.local
+
+# Data
+data/documents/*
+!data/documents/.gitkeep
+data/indexes/*
+!data/indexes/.gitkeep
+data/metadata/*
+!data/metadata/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
